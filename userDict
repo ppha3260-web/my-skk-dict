@@ -762,6 +762,7 @@ jump /ジャンプ/
 ka /解説してください/ka/к;cyrillic/
 ke /ke/
 key /キー/
+keybin /keybin/
 keybind /キーバインド/
 keyboard /キーボード/
 keymap /キーマップ/
@@ -932,6 +933,7 @@ shell /シェル/
 shellscript /シェルスクリプト/
 shift /シフト/
 shopping /ショッピング/
+shorctu /shorctu/
 short /ショート/
 shortcut /ショートカット/
 shrotcut /shrotcut/
@@ -3283,6 +3285,7 @@ zone /ゾーン/
 しぼり /絞り/
 しぼりこみ /絞り込み/
 しぼりこめ /絞り込め/
+しぼりこめる /絞り込める/
 しぼりたい /絞りたい/
 しぼる /絞る/
 しぼれる /絞れる/
@@ -6055,6 +6058,7 @@ zone /ゾーン/
 ようご /用語/
 ようこう /要項;†points.「募集-」/
 ようごしゅう /用語集/
+ようさ /ようさ/
 ようさん /洋算/
 ようじ /用事/
 ようしゅうせい /要修正/
