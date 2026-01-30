@@ -809,6 +809,7 @@ hardwhere /hardwhere/
 header /ヘッダ/
 hearing /ヒアリング/
 heder /heder/
+host /ホスト/
 hybrid /ハイブリッド/
 identity /アイデンティティ/
 ifl /ifl/
@@ -1016,6 +1017,7 @@ root /ルート/
 route /ルート/
 routeing /routeing/
 router /ルータ/
+routing /ルーティング/
 rule /ルール/
 rulw /rulw/
 running /ランニング/
@@ -1032,6 +1034,7 @@ script /スクリプト/
 search /サーチ/
 secrity /secrity/
 security /セキュリティ/
+seed /シード/
 self /セルフ/
 selfmerge /セルフマージ/self/
 sensor /センサー/
@@ -3922,6 +3925,7 @@ zone /ゾーン/
 しぜん /自然/
 じせん /次戦/
 じぜん /事前/
+しせんいどう /視線移動/
 しぜんげんご /自然言語/
 しそう /思想/
 しそうてき /思想的/
@@ -6286,6 +6290,7 @@ zone /ゾーン/
 はると /貼ると/
 はれ /晴/
 はれない /貼れない/
+はれなくなる /貼れなくなる/
 はれる /貼れる/晴れる/
 はろう /波浪/
 ぱわぽ /パワポ/
