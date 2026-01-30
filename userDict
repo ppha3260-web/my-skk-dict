@@ -649,8 +649,6 @@ boot /ブート/
 box /ボックス/
 browser /ブラウザ/
 btch /btch/
-bufer /bufer/
-buffe /buffe/
 buffer /バッファ/
 bug /バグ/
 build /ビルド/
@@ -718,7 +716,6 @@ creative /クリエイティブ/
 cry /😢/クライ/
 cup /カップ/
 cursor /カーソル/
-custmise /custmise/
 custom /カスタム/
 customise /カスタマイズ/
 customize /カスタマイズ/
@@ -760,9 +757,7 @@ emergency /エマージェンシー/
 emregency /emregency/
 endpoint /エンドポイント/
 engineer /エンジニア/
-erro /erro/
 error /エラー/
-errro /errro/
 f /φ;phi/
 fafner /ファフナー/
 fast /ファースト/
@@ -800,6 +795,7 @@ format /フォーマット/
 formatter /フォーマッタ/
 framework /フレームワーク/
 freedom /フリーダム/
+gha /Github Actions/
 global /グローバル/
 graviton /graviton/
 group /グループ/
@@ -2558,6 +2554,7 @@ zone /ゾーン/
 かつりょく /活力/
 かてい /過程/仮定/下底/過程;process/
 かどう /稼動/
+かとうせい /寡頭制/
 かどうび /稼働日/
 かどくせい /可読性/
 がな /仮名/
@@ -2577,6 +2574,7 @@ zone /ゾーン/
 かのうならいぶらりのじつげん /可能なライブラリの実現/
 かのじょ /彼女/
 かばー /カバー/
+かばれっじ /カバレッジ/
 かひつ /加筆/
 かびん /過敏/
 かぶ /下部/
@@ -4194,7 +4192,7 @@ zone /ゾーン/
 じゅんりえき /純利益/
 しょ /書/
 しょう /ショウ/章/省/小/賞/
-しよう /仕様/使用/
+しよう /使用/仕様/
 じょう /上/情/
 じょうい /上位/
 しょうか /消化/消火/消化;†digest.「食物の-」/昇華/
@@ -6098,6 +6096,7 @@ zone /ゾーン/
 はいってる /入ってる/
 はいて /履いて/
 はいてっる /履いてっる/
+ばいなり /バイナリ/
 はいふ /配布/
 ばいぶ /バイブ/
 はいぶりっど /ハイブリッド/
