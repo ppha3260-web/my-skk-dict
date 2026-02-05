@@ -721,6 +721,7 @@ cry /😢/クライ/
 cup /カップ/
 cursor /カーソル/
 custom /カスタム/
+customdashboard /カスタムダッシュボード/
 customise /カスタマイズ/
 customize /カスタマイズ/
 daa /daa/
@@ -764,8 +765,6 @@ error /エラー/
 f /φ;phi/
 fafner /ファフナー/
 fast /ファースト/
-feeback /feeback/
-feedbac /feedbac/
 feedback /フィードバック/
 feedbackkk /feedbackkk/
 fetch /フェッチ/
@@ -923,6 +922,7 @@ operator /オペレーター/
 option /オプション/
 optional /オプショナル/
 order /オーダー/
+orderlist /オーダーリスト/
 oreder /oreder/
 out /アウト/
 output /アウトプット/
@@ -2635,6 +2635,7 @@ zone /ゾーン/
 かようせい /可用性/
 かようび /火曜日/
 から /空/
+からー /カラー/
 からえ /唐絵/
 からだ /体/
 からむ /カラム/
@@ -6464,6 +6465,7 @@ zone /ゾーン/
 ひさしぶり /久し振り/
 びじねす /ビジネス/
 びじねすがわ /ビジネス側/
+びじねすさいど /ビジネスサイド/
 ひじゅう /比重/
 びしゅうせい /微修正/
 ひじょう /非常/
@@ -7767,6 +7769,7 @@ zone /ゾーン/
 りょく /力/
 りょこう /旅行/
 りょこんう /旅魂う/
+りりーす /リリース/
 りりーすてじゅん /リリース手順/
 りれき /履歴/
 りろん /理論/
