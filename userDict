@@ -852,6 +852,7 @@ keybin /keybin/
 keybind /キーバインド/
 keyboard /キーボード/
 keymap /キーマップ/
+keystroke /キーストローク/
 label /ラベル/
 layer /レイヤー/
 leader /リーダー/
