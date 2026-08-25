@@ -333,6 +333,7 @@
 つかいやすk /使い易/
 つかいまわs /使い回/
 つかw /使/
+つかu /使/
 つかt /使/遣;(金|気|人形)を遣う/
 つかr /疲/
 つかi /使/
@@ -1052,6 +1053,7 @@ endorphin /エンドルフィン/
 endpoint /エンドポイント/
 engineer /エンジニア/
 enter /エンター/
+entitiy /entitiy/
 entity /エンティティ/
 entry /エントリー/
 error /エラー/
@@ -1068,6 +1070,7 @@ field /フィールド/
 fiile /fiile/
 fike /fike/
 file /ファイル/
+filed /filed/
 filer /ファイラー/
 fileter /fileter/
 fill /フィル/
@@ -1199,6 +1202,7 @@ mde /mde/
 mdia /mdia/
 mdoe /mdoe/
 medai /medai/
+medhto /medhto/
 medi /メディ/
 media /メディア/
 mediamix /メディアミックス/
@@ -1218,6 +1222,7 @@ merit /メリット/
 message /メッセージ/
 meta /メタ/
 metatable /metatable/
+methdo /meth/
 method /メソッド/
 methodology /メソドロジ/
 mida /mida/
@@ -1253,6 +1258,7 @@ note /ノート/
 now /ナウ/now/
 o /ο;omicron/
 object /オブジェクト/
+obuject /obuject/
 ocde /ocde/
 oce /oce/
 oerder /oerder/
@@ -1571,6 +1577,7 @@ useragent /ユーザエージェント/
 usr /ユーザ;user/
 usre /usre/
 validaion /validaion/
+validatiion /validatiion/
 validation /バリデーション/
 value /バリュー/
 version /バージョン/
@@ -7930,6 +7937,7 @@ zu /zu/
 ちょきん /貯金/
 ちょく /直/
 ちょくご /直後/勅語/
+ちょくせう /直セウ/
 ちょくせつ /直接/
 ちょくせつてき /直接的/
 ちょくぜん /直前/
@@ -11932,9 +11940,10 @@ zu /zu/
 よんでいますか /呼んでいますか/読んでいますか/
 よんでいますが /読んでいますが/
 よんでいる /呼んでいる/読んでいる/
+よんでう /読んで兎/
 よんでください /読んでください/
 よんでも /読んでも/
-よんでる /読んでる/
+よんでる /呼んでる/読んでる/
 らー /ラー/
 らーめん /ラーメン/
 らい /来/癩;らい病/
