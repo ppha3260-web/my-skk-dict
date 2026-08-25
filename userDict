@@ -1011,6 +1011,7 @@ dashborad /dashborad/
 data /データ/
 database /データベース/
 datacenter /データセンター/
+dataclass /data/
 dataconnection /データコネクション/
 dataset /データセット/
 datasource /データソース/
@@ -12246,6 +12247,7 @@ zu /zu/
 わたされて /渡されて/
 わたされない /渡されない/
 わたされますか /渡されますか/
+わたされる /渡される/
 わたし /私/渡し/
 わたしかた /渡し方/
 わたしすぎ /渡しすぎ/
